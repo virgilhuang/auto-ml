@@ -1,10 +1,20 @@
 # auto-ml
 <h2 id="12"> Base origin 1: automl.org </h2>
-<h3 id="12"> awesome-automl-papers  </h3>
 <h3 id="12"> auto-sklearn  </h3>
-<h3 id="12"> microsoft-nni  </h3>
 
-<h2 id="12">Base origin 2: 刘建平Pinard </h2>
+<h2 id="12"> Base origin 2: awesome-automl-papers </h2>
+<h3 id="12"> awesome-automl-papers  </h3>
+
+
+<h2 id="12"> Base origin 3: microsoft-nni </h2>
+<h3 id="12">  microsoft-nni </h3>
+ 
+<h2 id="12"> Base origin 4: H2O.ai </h2>
+
+<h2 id="12"> Base origin 5: TransmogrifAI </h2>
+
+
+<h2 id="12">Base origin 6: 刘建平Pinard </h2>
 <h3 id="12">特征工程与算法落地文章与代码：</h3>
 
 |文章 | 代码|
